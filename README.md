@@ -8,6 +8,8 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hassams)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hassams)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Hassams/Hassams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
