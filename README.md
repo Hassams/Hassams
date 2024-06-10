@@ -1,7 +1,7 @@
 <div align="justify">
 <a href="https://www.instagram.com/_has.sam/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-<a href="https://www.twitter.com/Hassams/">
+<a href="https://www.twitter.com/hassams1/">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/hassams/">
