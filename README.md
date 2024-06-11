@@ -14,7 +14,9 @@
 </div>
 <p></p>
 <p align="justify">
-Welcome, I'm Hassam, a passionate computer science engineer, and a full-stack developer from Pakistan. I am a tech enthusiast and love to work on new technologies. I have experience over 5 years in developing web applications, REST APIs, and automation scripts. I am a quick learner and always eager to learn new things. I am currently working as a Tech Lead at <a href="https://www.productbox.dev/">productbox</a>. My love for backend development and building scalable architecture has led me to work on various projects. I am always open to new opportunities and collaborations. Feel free to reach out.
+Welcome! I'm Hassam, a passionate computer science engineer and full-stack developer from Pakistan. I am deeply interested in technology and enjoy working on new advancements in the field. With over 5 years of experience, I specialize in developing web applications, REST APIs, and automation scripts. I am a quick learner and am always eager to expand my knowledge and skills.
+
+Currently, I serve as a Tech Lead at <a href="https://www.productbox.dev/">ProductBox</a>. My focus on backend development and building scalable architectures has driven me to contribute to various projects. I am open to new opportunities and collaborations, so feel free to reach out!
 
 </p>
 
@@ -24,12 +26,6 @@ Welcome, I'm Hassam, a passionate computer science engineer, and a full-stack de
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
@@ -102,31 +98,6 @@ Welcome, I'm Hassam, a passionate computer science engineer, and a full-stack de
  <tr>
  </tr>
 </table>
-
-## Github stats 📊
-
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="hassam's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Hassams&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Hassams's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassams&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-</details>
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hassams&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Hassamse&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-
-</details>
 
 ## Recent GitHub Activity ✅
 
