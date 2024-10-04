@@ -18,9 +18,9 @@
 </div>
 <p></p>
 <p align="justify">
-Welcome! I'm Hassam, a passionate computer science engineer and full-stack developer from Pakistan. I am deeply interested in technology and enjoy working on new advancements in the field. With over 5 years of experience, I specialize in developing web applications, REST APIs, and automation scripts. I am a quick learner and am always eager to expand my knowledge and skills.
+Welcome! I'm Hassam, a passionate full-stack engineer from Pakistan. Deep interest in building systems and APIs that are scalable. With over 5 years of experience, I specialize in developing web applications, REST APIs, and automation scripts. I am a quick learner and am always eager to expand my knowledge and skills.
 
-Currently, I serve as a Tech Lead at <a href="https://www.productbox.dev/" target="_blank" rel="noopener noreferrer">ProductBox</a>. My focus on backend development and building scalable architectures has driven me to contribute to various projects. I am open to new opportunities and collaborations, so feel free to reach out!
+Currently, I'm a Tech Lead at <a href="https://www.productbox.dev/" target="_blank" rel="noopener noreferrer">ProductBox</a>. My focus on backend development and building scalable architectures has driven me to contribute to various products, serving thousands of customers. I am open to new opportunities and collaborations, so feel free to reach out!
 
 </p>
 
@@ -33,10 +33,6 @@ Currently, I serve as a Tech Lead at <a href="https://www.productbox.dev/" targe
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" target="_blank" rel="noopener noreferrer"/>
       <br>Javascript
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" target="_blank" rel="noopener noreferrer"/>
-      <br>Django
     </td>
        <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" target="_blank" rel="noopener noreferrer"/>
