@@ -1,108 +1,61 @@
-<div align="justify">
-<a href="https://www.instagram.com/_has.sam/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-
-<a href="https://www.twitter.com/hassams1/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/hassams/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-
-<a href="https://gitlab.com/hassams" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-</a>
-
-</div>
-<p></p>
-<p align="justify">
-Welcome! I'm Hassam, a passionate full-stack engineer from Pakistan. Deep interest in building systems and APIs that are scalable. With over 5 years of experience, I specialize in developing web applications, REST APIs, and automation scripts. I am a quick learner and am always eager to expand my knowledge and skills.
-
-Currently, I'm a Tech Lead at <a href="https://www.productbox.dev/" target="_blank" rel="noopener noreferrer">ProductBox</a>. My focus on backend development and building scalable architectures has driven me to contribute to various products, serving thousands of customers. I am open to new opportunities and collaborations, so feel free to reach out!
-
+<h2 align="center">Hello, I'm Hassam! 👋</h2>
+<p align="center">
+  A passionate full-stack engineer from Pakistan. Deep interest in building systems and APIs that are scalable. With over 5 years of experience, I specialize in developing web applications, REST APIs, and automation scripts. I am a quick learner and am always eager to expand my knowledge and skills.
+</p>
+<p align="center">
+Currently, I'm a Tech Lead at <a href="https://www.productbox.dev/" target="_blank" rel="noopener noreferrer">ProductBox</a>. Building scalable architectures has driven me to contribute to various products, serving thousands of customers. I am open to new opportunities and collaborations, so feel free to reach out!
 </p>
 
-## My favorite tools and technologies ⚙️
+## Tools & Technologies I Use ⚙️
 
-> Tools and technologies that I have worked with and am interested in
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-Node.js-339933?&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-React-61DAFB?&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/-Next.js-000000?&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/-React Native-61DAFB?&logo=react&logoColor=white" alt="React Native">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/-GCP-4285F4?&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/-FastAPI-009688?&logo=fastapi&logoColor=white" alt="FastAPI">
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" target="_blank" rel="noopener noreferrer"/>
-      <br>Javascript
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" target="_blank" rel="noopener noreferrer"/>
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" target="_blank" rel="noopener noreferrer"/>
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" target="_blank" rel="noopener noreferrer"/>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" target="_blank" rel="noopener noreferrer"/>
-      <br>Nginx
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" target="_blank" rel="noopener noreferrer"/>
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" target="_blank" rel="noopener noreferrer"/>
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" target="_blank" rel="noopener noreferrer"/>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" target="_blank" rel="noopener noreferrer"/>
-      <br>CSS
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" target="_blank" rel="noopener noreferrer"/>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" target="_blank" rel="noopener noreferrer"/>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" target="_blank" rel="noopener noreferrer"/>
-      <br>PostgreSQL
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" target="_blank" rel="noopener noreferrer"/>
-      <br>Redis
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" target="_blank" rel="noopener noreferrer"/>
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" target="_blank" rel="noopener noreferrer"/>
-      <br>Linux
-    </td>
-  </tr>
- <tr>
- </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/-Redis-DC382D?&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/-Kafka-231F20?&logo=apache-kafka&logoColor=white" alt="Kafka">
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/-Github Actions-2088FF?&logo=github-actions&logoColor=white" alt="Github Actions">
+</p>
 
-## Recent GitHub Activity ✅
+<p align="center">
+  <img src="https://img.shields.io/badge/-Prometheus-E6522C?&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/-Grafana-F46800?&logo=grafana&logoColor=white" alt="Grafana">
+  <img src="https://img.shields.io/badge/-Nginx-009639?&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/-WebRTC-333333?&logo=webrtc&logoColor=white" alt="WebRTC">
+</p>
 
-![Metrics](https://metrics.lecoq.io/Hassams?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=true&activity.filter=all&config.timezone=Asia%2FTehran)
 
-## GitHub Profile Trophy 🏆
+## My Experience 💼
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hassams&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+As a Tech Lead at <a href="https://www.productbox.dev/" target="_blank" rel="noopener noreferrer">ProductBox</a>, I focus on:
+- Leading backend architecture for highly scalable applications.
+- Collaborating with cross-functional teams to drive product success.
+- Enhancing development processes for improved efficiency.
+
+## Connect with Me 🌐
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hassams/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/hassams1" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.instagram.com/_has.sam/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
