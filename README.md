@@ -1,12 +1,18 @@
 <h2 align="center">Hello, I'm Hassam! 👋</h2>
+
 <p align="center">
-  A passionate full-stack engineer from Pakistan. Deep interest in building systems and APIs that are scalable. With over 5 years of experience, I specialize in developing web applications, REST APIs, and automation scripts. I am a quick learner and am always eager to expand my knowledge and skills.
-</p>
-<p align="center">
-Currently, I'm a Tech Lead at <a href="https://www.productbox.dev/" target="_blank" rel="noopener noreferrer">ProductBox</a>. Building scalable architectures has driven me to contribute to various products, serving thousands of customers. I am open to new opportunities and collaborations, so feel free to reach out!
+  Senior Full-Stack Engineer (7+ years) specializing in building scalable, high-performance systems across web, mobile, and cloud. I work extensively with TypeScript, Node.js, React/Next.js, PostgreSQL, Redis, and AWS—designing architectures that power real-time, distributed, and AI-driven products.
 </p>
 
-## Tools & Technologies I Use ⚙️
+<p align="center">
+Currently, I'm a Tech Lead at <a href="https://www.productbox.dev/" target="_blank" rel="noopener noreferrer">ProductBox</a>, where I architect and deliver production systems used by thousands of users daily. I’ve led cross-functional engineering teams, built real-time platforms, standardized infrastructure with IaC, and shipped multiple customer-facing products end-to-end.
+</p>
+
+<p align="center">
+I’m passionate about automation, developer experience, cloud infrastructure, and AI-driven workflows. Always open to new opportunities, collaborations, and meaningful engineering challenges — feel free to reach out!
+</p>
+
+## Core Technologies ⚙️
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=white" alt="JavaScript">
@@ -36,26 +42,4 @@ Currently, I'm a Tech Lead at <a href="https://www.productbox.dev/" target="_bla
   <img src="https://img.shields.io/badge/-Nginx-009639?&logo=nginx&logoColor=white" alt="Nginx">
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase&logoColor=white" alt="Firebase">
   <img src="https://img.shields.io/badge/-WebRTC-333333?&logo=webrtc&logoColor=white" alt="WebRTC">
-</p>
-
-
-## My Experience 💼
-
-As a Tech Lead at <a href="https://www.productbox.dev/" target="_blank" rel="noopener noreferrer">ProductBox</a>, I focus on:
-- Leading backend architecture for highly scalable applications.
-- Collaborating with cross-functional teams to drive product success.
-- Enhancing development processes for improved efficiency.
-
-## Connect with Me 🌐
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hassams/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/hassams1" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/_has.sam/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
 </p>
